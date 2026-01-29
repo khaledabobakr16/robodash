@@ -16,7 +16,39 @@ The project simulates a real-world robot control system, with strong focus on **
 * Showcase maintainable, testable, and extensible code
 
 ---
+## Screenshots
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/screenshots/control_1.png" alt="Control 1" width="200" />
+  <img src="assets/screenshots/control_2.png" alt="Control 2" width="200" />
+  <img src="assets/screenshots/control_3.png" alt="Control 3" width="200" />
+  <img src="assets/screenshots/control_4.png" alt="Control 4" width="200" />
+  <img src="assets/screenshots/control_5.png" alt="Control 5" width="200" />
+  <img src="assets/screenshots/more_screen.png" alt="More Screen 1" width="200" />
+  <img src="assets/screenshots/more_screen_2.png" alt="More Screen 2" width="200" />
+  <img src="assets/screenshots/more_screen_3.png" alt="More Screen 3" width="200" />
+  <img src="assets/screenshots/splash_screen.png" alt="Splash Screen 1" width="200" />
+  <img src="assets/screenshots/splash_screen_2.png" alt="Splash Screen 2" width="200" />
+  <img src="assets/screenshots/telemetry_1.png" alt="Telemetry 1" width="200" />
+  <img src="assets/screenshots/telemetry_2.png" alt="Telemetry 2" width="200" />
+  <img src="assets/screenshots/telemetry_3.png" alt="Telemetry 3" width="200" />
+  <img src="assets/screenshots/telemetry_4.png" alt="Telemetry 4" width="200" />
+  <img src="assets/screenshots/telemetry_5.png" alt="Telemetry 5" width="200" />
+  <img src="assets/screenshots/telemetry_6.png" alt="Telemetry 6" width="200" />
+  <img src="assets/screenshots/telemetry_7.png" alt="Telemetry 7" width="200" />
+  <img src="assets/screenshots/vision_1.png" alt="Vision 1" width="200" />
+  <img src="assets/screenshots/vision_2.png" alt="Vision 2" width="200" />
+  <img src="assets/screenshots/visison_3.png" alt="Vision 3" width="200" />
+  <img src="assets/screenshots/visison_4.png" alt="Vision 4" width="200" />
+  <img src="assets/screenshots/visison_5.png" alt="Vision 5" width="200" />
+  <img src="assets/screenshots/voice.png" alt="Voice 1" width="200" />
+  <img src="assets/screenshots/voice_2.png" alt="Voice 2" width="200" />
+  <img src="assets/screenshots/voice_3.png" alt="Voice 3" width="200" />
+  <img src="assets/screenshots/voice_4.png" alt="Voice 4" width="200" />
+  <img src="assets/screenshots/voice_5.png" alt="Voice 5" width="200" />
+  <img src="assets/screenshots/voice_6.png" alt="Voice 6" width="200" />
+  <img src="assets/screenshots/voice_7.png" alt="Voice 7" width="200" />
+</div>
 ##  Features
 
 ###  Real-Time Telemetry (Simulated)
